@@ -1,232 +1,1000 @@
-Primary Affiliation,Affliiation from IAM,Trip Start Date,Trip End Date,Itinerary Country,Trip Status,Trip Deletion/Cancelation Motive,Employee,Professional,Student,Afghanistan,N/A,0,0,0,Destination,Common Name,Travelers,Faculty/Staff,Students
-Graduate Student,STUDENT,8/5/2024,12/21/2024,Netherlands,Approved,,FALSE,FALSE,TRUE,Albania,N/A,0,0,0,Afghanistan,Afghanistan,0,0,0
-Faculty,FACULTY,7/4/2024,12/30/2024,Austria,Approved,,TRUE,FALSE,FALSE,Algeria,N/A,0,0,0,Albania,Albania,0,0,0
-Faculty,FACULTY,9/1/2024,12/31/2024,"United Kingdom, Germany",Approved,,TRUE,FALSE,FALSE,Andorra,N/A,0,0,0,Algeria,Algeria,0,0,0
-Faculty,FACULTY,8/15/2024,7/15/2025,Netherlands,Approved,,TRUE,FALSE,FALSE,Angola,N/A,0,0,0,Andorra,Andorra,0,0,0
-Faculty,FACULTY,12/14/2024,1/9/2025,China,Approved,,TRUE,FALSE,FALSE,Anguilla,N/A,0,0,0,Angola,Angola,0,0,0
-Graduate Student,STUDENT,8/18/2024,1/15/2025,"Germany, Switzerland, Canada, Switzerland",Approved,,FALSE,FALSE,TRUE,Antarctica,N/A,1,1,0,Anguilla,Anguilla,0,0,0
-Faculty,FACULTY,12/14/2024,1/28/2025,"Taiwan, Taiwan",Approved,,TRUE,FALSE,FALSE,Antigua and Barbuda,N/A,0,0,0,Antarctica,Antarctica,1,1,0
-Faculty,FACULTY,12/4/2024,1/9/2025,"India, India, Nepal",Approved,,TRUE,FALSE,FALSE,Argentina,N/A,0,0,0,Antigua and Barbuda,Antigua and Barbuda,0,0,0
-Faculty,FACULTY,11/26/2024,1/3/2025,Germany,Approved,,TRUE,FALSE,FALSE,Armenia,N/A,0,0,0,Argentina,Argentina,0,0,0
-Faculty,FACULTY,12/14/2024,12/23/2024,Guatemala,Approved,,TRUE,FALSE,FALSE,Aruba,N/A,0,0,0,Armenia,Armenia,0,0,0
-Faculty,FACULTY,12/14/2024,12/19/2024,China,Approved,,TRUE,FALSE,FALSE,Australia,N/A,0,0,0,Aruba,Aruba,0,0,0
-Faculty,FACULTY,12/12/2024,12/21/2024,Norway,Approved,,TRUE,FALSE,FALSE,Austria,N/A,2,2,0,Australia,Australia,0,0,0
-Faculty,FACULTY,12/12/2024,1/11/2025,"United Kingdom, Switzerland, United Kingdom",Approved,,TRUE,FALSE,FALSE,Azerbaijan,N/A,0,0,0,Austria,Austria,2,2,0
-Faculty,FACULTY,12/13/2024,12/22/2024,Netherlands,Awaiting Approval,,TRUE,FALSE,FALSE,Bahamas,N/A,0,0,0,Azerbaijan,Azerbaijan,0,0,0
-Graduate Student,STUDENT,12/12/2024,1/13/2025,"Canada, China",Approved,,FALSE,FALSE,TRUE,Bahrain,N/A,0,0,0,The Bahamas,The Bahamas,0,0,0
-Graduate Student,STUDENT,12/13/2024,12/19/2024,India,Approved,,FALSE,FALSE,TRUE,Bangladesh,N/A,0,0,0,Bahrain,Bahrain,0,0,0
-Staff,FACULTY,12/17/2024,12/20/2024,Canada,Approval Needed,,TRUE,FALSE,FALSE,Barbados,N/A,0,0,0,Bangladesh,Bangladesh,0,0,0
-Faculty,FACULTY,12/13/2024,1/12/2025,"Japan, Japan, Japan",Approved,,TRUE,FALSE,FALSE,Belarus,N/A,0,0,0,Barbados,Barbados,0,0,0
-Graduate Student,STUDENT,8/14/2024,1/25/2025,China,Approved,,FALSE,FALSE,TRUE,Belgium,N/A,2,1,1,Belarus,Belarus,0,0,0
-Undergraduate Student,STUDENT,6/4/2024,12/19/2024,Mexico,Approval Needed,,FALSE,FALSE,TRUE,Belize,N/A,0,0,0,Belgium,Belgium,2,1,1
-Law Student,STUDENT,8/8/2024,1/13/2025,Netherlands,Approved,,FALSE,TRUE,FALSE,Benin,N/A,0,0,0,Belize,Belize,0,0,0
-Faculty,FACULTY,6/23/2024,3/31/2025,"Colombia, Peru, Colombia",Approved,,TRUE,FALSE,FALSE,Bermuda,N/A,0,0,0,Benin,Benin,0,0,0
-Faculty,FACULTY,8/10/2024,6/30/2025,Colombia,Awaiting Approval,,TRUE,FALSE,FALSE,Bhutan,N/A,0,0,0,Bermuda,Bermuda,0,0,0
-Faculty,FACULTY,9/14/2024,6/14/2025,"Turkey, Turkey",Approved,,TRUE,FALSE,FALSE,Bolivia,N/A,0,0,0,Bhutan,Bhutan,0,0,0
-Faculty,FACULTY,12/15/2024,1/12/2025,United Arab Emirates,Approved,,TRUE,FALSE,FALSE,Caribbean Netherlands,N/A,0,0,0,Bolivia,Bolivia,0,0,0
-Faculty,FACULTY,12/7/2024,12/20/2024,"Germany, Germany",Approved,,TRUE,FALSE,FALSE,Bosnia and Herzegovina,N/A,0,0,0,"Bonaire, Saba, and Sint Eustatius","Bonaire, Saba, and Sint Eustatius",0,0,0
-Faculty,FACULTY,11/23/2024,1/15/2025,Taiwan,Approved,,TRUE,FALSE,FALSE,Botswana,N/A,0,0,0,Bosnia and Herzegovina,Bosnia and Herzegovina,0,0,0
-Faculty,FACULTY,11/29/2024,12/23/2024,Mexico,Approved,,TRUE,FALSE,FALSE,Brazil,N/A,0,0,0,Botswana,Botswana,0,0,0
-Staff,STAFF,11/23/2024,1/4/2025,Italy,Approved,,TRUE,FALSE,FALSE,British Indian Ocean Territory,N/A,0,0,0,Brazil,Brazil,0,0,0
-Faculty,FACULTY,11/30/2024,12/23/2024,"United Kingdom, United Kingdom, Germany, Germany, Germany",Approved,,TRUE,FALSE,FALSE,British Virgin Islands,N/A,0,0,0,British Indian Ocean Territory,British Indian Ocean Territory,0,0,0
-Graduate Student,STUDENT,10/29/2024,1/31/2025,Indonesia,Approved,,FALSE,FALSE,TRUE,Brunei Darussalam,N/A,0,0,0,British Virgin Islands,British Virgin Islands,0,0,0
-Graduate Student,FACULTY,8/15/2024,6/30/2025,Netherlands,Approved,,FALSE,FALSE,TRUE,Bulgaria,N/A,0,0,0,Brunei,Brunei,0,0,0
-Faculty,FACULTY,12/16/2024,12/21/2024,France,Approved,,TRUE,FALSE,FALSE,Burkina Faso,N/A,0,0,0,Bulgaria,Bulgaria,0,0,0
-Faculty,FACULTY,12/9/2024,1/2/2025,"Italy, United Arab Emirates, Italy",Approved,,TRUE,FALSE,FALSE,Burundi,N/A,0,0,0,Burkina Faso,Burkina Faso,0,0,0
-Faculty,FACULTY,12/1/2024,12/19/2024,"India, India, India",Approved,,TRUE,FALSE,FALSE,Cape Verde,N/A,0,0,0,Burundi,Burundi,0,0,0
-Graduate Student,STUDENT,10/28/2024,2/28/2025,Colombia,Approval Needed,,FALSE,FALSE,TRUE,Cambodia,N/A,0,0,0,Cape Verde,Cabo Verde (Cape Verde),0,0,0
-Graduate Student,STUDENT,12/7/2024,1/17/2025,"China, China",Approved,,FALSE,FALSE,TRUE,Cameroon,N/A,0,0,0,Cambodia,Cambodia,0,0,0
-Graduate Student,STUDENT,11/25/2024,1/14/2025,"India, China, India",Approved,,FALSE,FALSE,TRUE,Canada,N/A,5,2,3,Cameroon,Cameroon,0,0,0
-Faculty,FACULTY,12/11/2024,12/28/2024,India,Approved,,TRUE,FALSE,FALSE,Cayman Islands,N/A,0,0,0,Canada,Canada,5,2,3
-Graduate Student,STUDENT,12/16/2024,12/31/2024,"Mexico, Mexico",Approved,,FALSE,FALSE,TRUE,Central African Republic,N/A,0,0,0,Cayman Islands,Cayman Islands,0,0,0
-Graduate Student,STUDENT,12/12/2024,1/16/2025,"Rwanda, Nigeria, Nigeria",Awaiting Approval,,FALSE,FALSE,TRUE,Chad,N/A,0,0,0,Central African Republic,Central African Republic,0,0,0
-Graduate Student,STUDENT,12/11/2024,12/28/2024,"Germany, United Kingdom, Germany",Approved,,FALSE,FALSE,TRUE,Chile,N/A,0,0,0,Chad,Chad,0,0,0
-Faculty,FACULTY,8/24/2024,2/2/2025,"France, Germany, France, Germany, Israel, France, Greece, France, South Africa, France, United Kingdom, France, France, France, France, United Kingdom, France",Approved,,TRUE,FALSE,FALSE,China,N/A,10,5,5,Chile,Chile,0,0,0
-Faculty,FACULTY,12/17/2024,1/9/2025,Spain,Approved,,TRUE,FALSE,FALSE,Colombia,N/A,4,2,2,China,China,10,5,5
-Graduate Student,STUDENT,8/6/2024,7/1/2025,France,Approved,,FALSE,FALSE,TRUE,Comoros,N/A,0,0,0,Colombia,Colombia,4,2,2
-Faculty,FACULTY,7/25/2024,6/30/2025,South Africa,Approved,,TRUE,FALSE,FALSE,Cook Islands,N/A,0,0,0,Comoros,Comoros,0,0,0
-Faculty,FACULTY,12/5/2024,12/27/2024,"Netherlands, France",Approved,,TRUE,FALSE,FALSE,Costa Rica,N/A,0,0,0,Cook Islands,Cook Islands,0,0,0
-Graduate Student,,12/15/2024,2/6/2025,Peru,Approval Needed,,FALSE,FALSE,TRUE,Cote D'ivoire,N/A,0,0,0,Costa Rica,Costa Rica,0,0,0
-Faculty,FACULTY,12/19/2024,2/28/2025,Italy,Approved,,TRUE,FALSE,FALSE,Croatia,N/A,0,0,0,Côte d'Ivoire,Côte d'Ivoire (Ivory Coast),0,0,0
-Faculty,FACULTY,12/3/2024,1/10/2025,Uganda,Approved,,TRUE,FALSE,FALSE,Cuba,N/A,0,0,0,Croatia,Croatia,0,0,0
-Faculty,FACULTY,12/18/2024,2/8/2025,"India, India, India, India, India, India",Approved,,TRUE,FALSE,FALSE,Curacao,CuraÃ§ao,0,0,0,Cuba,Cuba,0,0,0
-Graduate Student,STUDENT,12/3/2024,12/19/2024,"Colombia, Colombia, Colombia",Approved,,FALSE,FALSE,TRUE,Cyprus,N/A,0,0,0,Curaçao,Curaçao,0,0,0
-Post-Doctoral Scholar,FACULTY,12/12/2024,1/9/2025,Mexico,Approved,,TRUE,FALSE,FALSE,Czech Republic,Czechia,0,0,0,Cyprus,Cyprus,0,0,0
-Faculty,FACULTY,11/12/2024,12/27/2024,"Italy, Italy",Approved,,TRUE,FALSE,FALSE,Democratic Republic of the Congo,N/A,0,0,0,Czechia,Czech Republic,0,0,0
-Faculty,FACULTY,12/11/2024,2/20/2025,"China, Taiwan, China, China, Taiwan, China",Approved,,TRUE,FALSE,FALSE,Denmark,N/A,0,0,0,Democratic Republic of Congo,Democratic Republic of the Congo,0,0,0
-Post-Doctoral Scholar,FACULTY,12/18/2024,1/2/2025,Ecuador,Approved,,TRUE,FALSE,FALSE,Djibouti,N/A,0,0,0,Denmark,Denmark,0,0,0
-Faculty,FACULTY,12/2/2024,12/23/2024,Germany,Approved,,TRUE,FALSE,FALSE,Dominica,N/A,0,0,0,Djibouti,Djibouti,0,0,0
-Graduate Student,STUDENT,9/7/2024,1/8/2025,"Thailand, Thailand, Thailand, Thailand, Thailand, United States, United States",Approved,,FALSE,FALSE,TRUE,Dominican Republic,N/A,0,0,0,Dominica,Dominica,0,0,0
-Faculty,FACULTY,12/7/2024,12/24/2024,South Korea,Approved,,TRUE,FALSE,FALSE,Ecuador,N/A,1,1,0,Dominican Republic,Dominican Republic,0,0,0
-Graduate Student,STUDENT,12/14/2024,12/22/2024,Rwanda,Awaiting Approval,,FALSE,FALSE,TRUE,Egypt,N/A,0,0,0,Ecuador,Ecuador,1,1,0
-Faculty,FACULTY,12/17/2024,1/7/2025,"Japan, Japan, Japan, Japan",Approved,,TRUE,FALSE,FALSE,El Salvador,N/A,0,0,0,Egypt,Egypt,0,0,0
-Post-Doctoral Scholar,FACULTY,12/16/2024,1/18/2025,India,Approval Needed,,TRUE,FALSE,FALSE,Equatorial Guinea,N/A,0,0,0,El Salvador,El Salvador,0,0,0
-Faculty,FACULTY,12/13/2024,12/19/2024,Germany,Approval Needed,,TRUE,FALSE,FALSE,Eritrea,N/A,0,0,0,Equatorial Guinea,Equatorial Guinea,0,0,0
-Faculty,FACULTY,7/1/2024,8/11/2025,Italy,Approved,,FALSE,FALSE,FALSE,Estonia,N/A,0,0,0,Eritrea,Eritrea,0,0,0
-Physician Assistant (PA),STUDENT,12/14/2024,2/6/2025,Peru,Awaiting Approval,,TRUE,FALSE,FALSE,Swaziland,Eswatini,0,0,0,Estonia,Estonia,0,0,0
-Faculty,FACULTY,10/27/2024,1/9/2025,"France, Switzerland, Germany, Austria, Turkey",Approved,,TRUE,FALSE,FALSE,Ethiopia,N/A,1,1,0,Eswatini,Eswatini (Swaziland),0,0,0
-Faculty,FACULTY,10/28/2024,12/27/2024,India,Approved,,TRUE,FALSE,FALSE,Falkland Islands,N/A,0,0,0,Ethiopia,Ethiopia,1,1,0
-Faculty,FACULTY,12/14/2024,12/27/2024,"France, France",Approved,,TRUE,FALSE,FALSE,Fiji,N/A,0,0,0,Falkland Islands,Falkland Islands,0,0,0
-Faculty,FACULTY,9/1/2024,1/1/2025,Turkey,Approved,,TRUE,FALSE,FALSE,Finland,N/A,1,1,0,Fiji,Fiji,0,0,0
-Faculty,FACULTY,12/7/2024,12/21/2024,India,Approved,,TRUE,FALSE,FALSE,France,N/A,8,7,1,Finland,Finland,1,1,0
-Faculty,FACULTY,12/10/2024,12/24/2024,Japan,Approved,,TRUE,FALSE,FALSE,French Guiana,N/A,0,0,0,France,France,8,7,1
-Faculty,FACULTY,12/14/2024,1/7/2025,"Portugal, Italy, Portugal",Approved,,TRUE,FALSE,FALSE,French Polynesia,N/A,0,0,0,French Guiana,French Guiana,0,0,0
-Post-Doctoral Scholar,FACULTY,12/4/2024,1/17/2025,"Ethiopia, Ethiopia, Ethiopia, Ethiopia",Approval Needed,,TRUE,FALSE,FALSE,French Southern and Antarctic Lands,N/A,0,0,0,French Polynesia,French Polynesia,0,0,0
-Faculty,FACULTY,12/12/2024,12/21/2024,Rwanda,Approved,,TRUE,FALSE,FALSE,Gabon,N/A,0,0,0,French Southern and Antarctic Lands,French Southern and Antarctic Lands,0,0,0
-Post-Doctoral Scholar,FACULTY,12/17/2024,1/20/2025,"United Kingdom, Spain, United Kingdom",Approved,,TRUE,FALSE,FALSE,Gambia,N/A,0,0,0,Gabon,Gabon,0,0,0
-Staff,STAFF,12/17/2024,12/19/2024,Canada,Approval Needed,,TRUE,FALSE,FALSE,Georgia,N/A,0,0,0,The Gambia,The Gambia,0,0,0
-Post-Doctoral Scholar,FACULTY,12/16/2024,1/18/2025,India,Approval Needed,,TRUE,FALSE,FALSE,Germany,N/A,10,7,3,Georgia,Georgia,0,0,0
-Faculty,FACULTY,12/17/2024,12/20/2024,France,Approved,,TRUE,FALSE,FALSE,Ghana,N/A,0,0,0,Germany,Germany,10,7,3
-Faculty,FACULTY,12/16/2024,12/29/2024,"Japan, Thailand",Approval Needed,,FALSE,FALSE,TRUE,Gibraltar,N/A,0,0,0,Ghana,Ghana,0,0,0
-Graduate Student,STUDENT,6/29/2024,1/31/2025,"Belgium, Belgium, Belgium",Approved,,TRUE,FALSE,FALSE,Greece,N/A,2,1,1,Gibraltar,Gibraltar,0,0,0
-Faculty,FACULTY,9/4/2024,12/25/2024,Italy,Approval Needed,,TRUE,FALSE,FALSE,Greenland,N/A,0,0,0,Greece,Greece,2,1,1
-Faculty,FACULTY,8/28/2024,1/5/2025,"Switzerland, Taiwan",Approved,,TRUE,FALSE,FALSE,Grenada,N/A,0,0,0,GREENLAND (DEN.),Greenland,0,0,0
-Faculty,FACULTY,6/8/2024,12/28/2024,India,Approved,,FALSE,FALSE,TRUE,Guadeloupe,N/A,0,0,0,Grenada,Grenada,0,0,0
-Graduate Student,STUDENT,9/25/2024,7/30/2025,Germany,Approved,,TRUE,FALSE,FALSE,Guatemala,N/A,1,1,0,Guadeloupe,Guadeloupe,0,0,0
-Faculty,FACULTY,12/16/2024,12/19/2024,Rwanda,Approved,,FALSE,FALSE,TRUE,Guinea,N/A,0,0,0,Guatemala,Guatemala,1,1,0
-Graduate Student,STUDENT,8/26/2024,6/2/2025,Jordan,Approved,,FALSE,FALSE,TRUE,Guinea-bissau,N/A,0,0,0,Guinea,Guinea,0,0,0
-Graduate Student,STUDENT,10/31/2024,1/10/2025,India,Approved,,TRUE,FALSE,FALSE,Guyana,N/A,0,0,0,Guinea-Bissau,Guinea-Bissau,0,0,0
-Faculty,FACULTY,12/10/2024,12/31/2024,China,Approved,,FALSE,FALSE,TRUE,Haiti,N/A,0,0,0,Guyana,Guyana,0,0,0
-Graduate Student,STUDENT,4/29/2024,12/30/2024,India,Awaiting Approval,,TRUE,FALSE,FALSE,Honduras,N/A,0,0,0,Haiti,Haiti,0,0,0
-Faculty,FACULTY,12/17/2024,12/25/2024,Turkey,Approved,,FALSE,FALSE,TRUE,Hungary,N/A,0,0,0,Honduras,Honduras,0,0,0
-Graduate Student,STUDENT,7/24/2023,12/31/2024,"India, India, India, India",Approved,,TRUE,FALSE,FALSE,Iceland,N/A,0,0,0,Hungary,Hungary,0,0,0
-Faculty,FACULTY,12/11/2024,7/17/2025,France,Approved,,TRUE,FALSE,FALSE,India,N/A,14,9,5,Iceland,Iceland,0,0,0
-Faculty,FACULTY,12/17/2024,12/20/2024,United Arab Emirates,Approved,,TRUE,FALSE,FALSE,Indonesia,N/A,1,0,1,India,India,14,9,5
-Post-Doctoral Scholar,FACULTY,12/7/2024,1/31/2025,"New Zealand, Antarctica, New Zealand",Approved,,FALSE,FALSE,TRUE,Iran,N/A,0,0,0,Indonesia,Indonesia,1,0,1
-Graduate Student,STUDENT,9/1/2024,3/31/2025,"Canada, United States, Canada",Awaiting Approval,,TRUE,FALSE,FALSE,Iraq,N/A,0,0,0,Iran,Iran,0,0,0
-Faculty,FACULTY,12/15/2024,12/19/2024,Belgium,Approved,,FALSE,FALSE,TRUE,Ireland,N/A,0,0,0,Iraq,Iraq,0,0,0
-Undergraduate Student,STUDENT,12/14/2024,12/22/2024,Greece,Approved,,FALSE,FALSE,TRUE,Israel,N/A,1,1,0,Ireland,Ireland,0,0,0
-Graduate Student,STUDENT,12/12/2024,1/30/2025,"Rwanda, Tanzania, South Korea",Approved,,TRUE,FALSE,FALSE,Italy,N/A,9,9,0,Israel,Israel,1,1,0
-Faculty,FACULTY,12/16/2024,12/20/2024,Finland,Approved,,TRUE,FALSE,FALSE,Jamaica,N/A,0,0,0,Italy,Italy,9,9,0
-Faculty,FACULTY,12/18/2024,1/11/2025,"China, China",Approved,,TRUE,FALSE,FALSE,Japan,N/A,4,4,0,Jamaica,Jamaica,0,0,0
-Faculty,FACULTY,12/10/2024,12/20/2024,Italy,Approved,,TRUE,FALSE,FALSE,Jordan,N/A,1,0,1,Japan,Japan,4,4,0
-Faculty,FACULTY,12/7/2024,12/27/2024,Kuwait,Approved,,FALSE,FALSE,TRUE,Kazakhstan,N/A,0,0,0,Jordan,Jordan,1,0,1
-Graduate Student,STUDENT,12/7/2024,12/26/2024,"China, China, China",Approved,,TRUE,FALSE,FALSE,Kenya,N/A,0,0,0,Kazakhstan,Kazakhstan,0,0,0
-Faculty,FACULTY,12/14/2024,12/20/2024,Rwanda,Awaiting Approval,,TRUE,FALSE,FALSE,Kiribati,N/A,0,0,0,Kenya,Kenya,0,0,0
-Faculty,FACULTY,12/14/2024,12/20/2024,Italy,Approved,,TRUE,FALSE,FALSE,Kosovo,N/A,0,0,0,Kiribati,Kiribati,0,0,0
-Faculty,FACULTY,45640.5,45655.49931,United Kingdom,Approved,,,,,Kuwait,N/A,1,1,0,Kosovo,Kosovo,0,0,0
-,,,,,,,,,,Kyrgyzstan,N/A,0,0,0,Kuwait,Kuwait,1,1,0
-,,,,,,,,,,Laos,N/A,0,0,0,Kyrgyzstan,Kyrgyzstan,0,0,0
-,,,,,,,,,,Latvia,N/A,0,0,0,Laos,Laos,0,0,0
-,,,,,,,,,,Lebanon,N/A,0,0,0,Latvia,Latvia,0,0,0
-,,,,,,,,,,Lesotho,N/A,0,0,0,Lebanon,Lebanon,0,0,0
-,,,,,,,,,,Liberia,N/A,0,0,0,Lesotho,Lesotho,0,0,0
-,,,,,,,,,,Libya,N/A,0,0,0,Liberia,Liberia,0,0,0
-,,,,,,,,,,Liechtenstein,N/A,0,0,0,Libya,Libya,0,0,0
-,,,,,,,,,,Lithuania,N/A,0,0,0,Liechtenstein,Liechtenstein,0,0,0
-,,,,,,,,,,Luxembourg,N/A,0,0,0,Lithuania,Lithuania,0,0,0
-,,,,,,,,,,Madagascar,N/A,0,0,0,Luxembourg,Luxembourg,0,0,0
-,,,,,,,,,,Malawi,N/A,0,0,0,Madagascar,Madagascar,0,0,0
-,,,,,,,,,,Malaysia,N/A,0,0,0,Malawi,Malawi,0,0,0
-,,,,,,,,,,Maldives,N/A,0,0,0,Malaysia,Malaysia,0,0,0
-,,,,,,,,,,Mali,N/A,0,0,0,Maldives,Maldives,0,0,0
-,,,,,,,,,,Malta,N/A,0,0,0,Mali,Mali,0,0,0
-,,,,,,,,,,Marshall Islands,N/A,0,0,0,Malta,Malta,0,0,0
-,,,,,,,,,,Martinique,N/A,0,0,0,Marshall Islands,Marshall Islands,0,0,0
-,,,,,,,,,,Mauritania,N/A,0,0,0,Martinique,Martinique,0,0,0
-,,,,,,,,,,Mauritius,N/A,0,0,0,Mauritania,Mauritania,0,0,0
-,,,,,,,,,,Mayotte,N/A,0,0,0,Mauritius,Mauritius,0,0,0
-,,,,,,,,,,Mexico,N/A,4,2,2,Mayotte,Mayotte,0,0,0
-,,,,,,,,,,Federated States of Micronesia,N/A,0,0,0,Mexico,Mexico,4,2,2
-,,,,,,,,,,Moldova,N/A,0,0,0,Micronesia,Micronesia,0,0,0
-,,,,,,,,,,Monaco,N/A,0,0,0,Moldova,Moldova,0,0,0
-,,,,,,,,,,Mongolia,N/A,0,0,0,Monaco,Monaco,0,0,0
-,,,,,,,,,,Montenegro,N/A,0,0,0,Mongolia,Mongolia,0,0,0
-,,,,,,,,,,Montserrat,N/A,0,0,0,Montenegro,Montenegro,0,0,0
-,,,,,,,,,,Morocco,N/A,0,0,0,Montserrat,Montserrat,0,0,0
-,,,,,,,,,,Mozambique,N/A,0,0,0,Morocco,Morocco,0,0,0
-,,,,,,,,,,Myanmar,N/A,0,0,0,Mozambique,Mozambique,0,0,0
-,,,,,,,,,,Namibia,N/A,0,0,0,Myanmar,Myanmar,0,0,0
-,,,,,,,,,,Nauru,N/A,0,0,0,Namibia,Namibia,0,0,0
-,,,,,,,,,,Nepal,N/A,1,1,0,Nauru,Nauru,0,0,0
-,,,,,,,,,,Netherlands,N/A,6,3,3,Nepal,Nepal,1,1,0
-,,,,,,,,,,New Caledonia,N/A,0,0,0,Netherlands,Netherlands,6,3,3
-,,,,,,,,,,New Zealand,N/A,1,1,0,New Caledonia,New Caledonia,0,0,0
-,,,,,,,,,,Nicaragua,N/A,0,0,0,New Zealand,New Zealand,1,1,0
-,,,,,,,,,,Niger,N/A,0,0,1,Nicaragua,Nicaragua,0,0,0
-,,,,,,,,,,Nigeria,N/A,1,0,1,Niger,Niger,0,0,1
-,,,,,,,,,,Niue,N/A,0,0,0,Nigeria,Nigeria,1,0,1
-,,,,,,,,,,North Korea,N/A,0,0,0,Niue,Niue,0,0,0
-,,,,,,,,,,Macedonia,N/A,0,0,0,North Korea,North Korea,0,0,0
-,,,,,,,,,,Norway,N/A,1,1,0,North Macedonia,North Macedonia,0,0,0
-,,,,,,,,,,Oman,N/A,0,0,0,Norway,Norway,1,1,0
-,,,,,,,,,,Pakistan,N/A,0,0,0,Oman,Oman,0,0,0
-,,,,,,,,,,Palau,N/A,0,0,0,Pakistan,Pakistan,0,0,0
-,,,,,,,,,,Panama,N/A,0,0,0,Palau,Palau,0,0,0
-,,,,,,,,,,Papua New Guinea,N/A,0,0,0,Panama,Panama,0,0,0
-,,,,,,,,,,Paraguay,N/A,0,0,0,Papua New Guinea,Papua New Guinea,0,0,0
-,,,,,,,,,,Peru,N/A,3,1,1,Paraguay,Paraguay,0,0,0
-,,,,,,,,,,Philippines,N/A,0,0,0,Peru,Peru,3,1,1
-,,,,,,,,,,Pitcairn Islands,N/A,0,0,0,Philippines,Philippines,0,0,0
-,,,,,,,,,,Poland,N/A,0,0,0,Pitcairn Islands,Pitcairn Islands,0,0,0
-,,,,,,,,,,Portugal,N/A,1,1,0,Poland,Poland,0,0,0
-,,,,,,,,,,Qatar,N/A,0,0,0,Portugal,Portugal,1,1,0
-,,,,,,,,,,Congo,N/A,0,0,0,Qatar,Qatar,0,0,0
-,,,,,,,,,,Reunion,N/A,0,0,0,Congo,Republic of the Congo,0,0,0
-,,,,,,,,,,Romania,N/A,0,0,0,Réunion,Réunion,0,0,0
-,,,,,,,,,,Russia,N/A,0,0,0,Romania,Romania,0,0,0
-,,,,,,,,,,Rwanda,N/A,6,3,3,Russia,Russia,0,0,0
-,,,,,,,,,,Saint Barthelemy,N/A,0,0,0,Rwanda,Rwanda,6,3,3
-,,,,,,,,,,St. Helena,N/A,0,0,0,Saint Barthélemy,Saint Barthélemy,0,0,0
-,,,,,,,,,,Saint Kitts and Nevis,N/A,0,0,0,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",0,0,0
-,,,,,,,,,,Saint Lucia,N/A,0,0,0,Saint Kitts and Nevis,Saint Kitts and Nevis,0,0,0
-,,,,,,,,,,Saint Martin,N/A,0,0,0,Saint Lucia,Saint Lucia,0,0,0
-,,,,,,,,,,Saint Pierre and Miquelon,N/A,0,0,0,Saint Martin,Saint Martin,0,0,0
-,,,,,,,,,,Saint Vincent and the Grenadines,N/A,0,0,0,Saint Pierre and Miquelon,Saint Pierre and Miquelon,0,0,0
-,,,,,,,,,,Samoa,N/A,0,0,0,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,0,0,0
-,,,,,,,,,,San Marino,N/A,0,0,0,Samoa,Samoa,0,0,0
-,,,,,,,,,,Sao Tome and Principe,N/A,0,0,0,San Marino,San Marino,0,0,0
-,,,,,,,,,,Saudi Arabia,N/A,0,0,0,São Tomé and Príncipe,São Tomé and Príncipe,0,0,0
-,,,,,,,,,,Senegal,N/A,0,0,0,Saudi Arabia,Saudi Arabia,0,0,0
-,,,,,,,,,,Serbia,N/A,0,0,0,Senegal,Senegal,0,0,0
-,,,,,,,,,,Seychelles,N/A,0,0,0,Serbia,Serbia,0,0,0
-,,,,,,,,,,Sierra Leone,N/A,0,0,0,Seychelles,Seychelles,0,0,0
-,,,,,,,,,,Singapore,N/A,0,0,0,Sierra Leone,Sierra Leone,0,0,0
-,,,,,,,,,,Sint Maarten,N/A,0,0,0,Singapore,Singapore,0,0,0
-,,,,,,,,,,Slovakia,N/A,0,0,0,Sint Maarten,Sint Maarten,0,0,0
-,,,,,,,,,,Slovenia,N/A,0,0,0,Slovakia,Slovakia,0,0,0
-,,,,,,,,,,Solomon Islands,N/A,0,0,0,Slovenia,Slovenia,0,0,0
-,,,,,,,,,,Somalia,N/A,0,0,0,Solomon Islands,Solomon Islands,0,0,0
-,,,,,,,,,,South Africa,N/A,2,2,0,Somalia,Somalia,0,0,0
-,,,,,,,,,,South Georgia and South Sandwich Islands,N/A,0,0,0,South Africa,South Africa,2,2,0
-,,,,,,,,,,South Korea,N/A,2,1,1,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,0,0,0
-,,,,,,,,,,South Sudan,N/A,0,0,0,South Korea,South Korea,2,1,1
-,,,,,,,,,,Spain,N/A,2,2,0,South Sudan,South Sudan,0,0,0
-,,,,,,,,,,Sri Lanka,N/A,0,0,0,Spain,Spain,2,2,0
-,,,,,,,,,,Sudan,N/A,0,0,0,Sri Lanka,Sri Lanka,0,0,0
-,,,,,,,,,,Suriname,N/A,0,0,0,Sudan,Sudan,0,0,0
-,,,,,,,,,,Svalbard and Jan Mayen,N/A,0,0,0,Suriname,Suriname,0,0,0
-,,,,,,,,,,Sweden,N/A,0,0,0,Svalbard and Jan Mayen,Svalbard and Jan Mayen,0,0,0
-,,,,,,,,,,Switzerland,N/A,4,3,1,Sweden,Sweden,0,0,0
-,,,,,,,,,,Syria,N/A,0,0,0,Switzerland,Switzerland,4,3,1
-,,,,,,,,,,Taiwan,N/A,4,4,0,Syria,Syria,0,0,0
-,,,,,,,,,,Tajikistan,N/A,0,0,0,Taiwan,Taiwan (China),4,4,0
-,,,,,,,,,,Tanzania,N/A,1,0,1,Tajikistan,Tajikistan,0,0,0
-,,,,,,,,,,Thailand,N/A,2,1,1,Tanzania,Tanzania,1,0,1
-,,,,,,,,,,Timor-leste (East Timor),N/A,0,0,0,Thailand,Thailand,2,1,1
-,,,,,,,,,,Togo,N/A,0,0,0,Timor-Leste,Timor-Leste (East Timor),0,0,0
-,,,,,,,,,,Tokelau,N/A,0,0,0,Togo,Togo,0,0,0
-,,,,,,,,,,Tonga,N/A,0,0,0,Tokelau,Tokelau,0,0,0
-,,,,,,,,,,Trinidad and Tobago,N/A,0,0,0,Tonga,Tonga,0,0,0
-,,,,,,,,,,Tunisia,N/A,0,0,0,Trinidad and Tobago,Trinidad and Tobago,0,0,0
-,,,,,,,,,,Turkey,N/A,4,4,0,Tunisia,Tunisia,0,0,0
-,,,,,,,,,,Turkmenistan,N/A,0,0,0,Turkey,Turkey,4,4,0
-,,,,,,,,,,Turks and Caicos Islands,N/A,0,0,0,Turkmenistan,Turkmenistan,0,0,0
-,,,,,,,,,,Tuvalu,N/A,0,0,0,Turks and Caicos Islands,Turks and Caicos Islands,0,0,0
-,,,,,,,,,,Uganda,N/A,1,1,0,Tuvalu,Tuvalu,0,0,0
-,,,,,,,,,,Ukraine,N/A,0,0,0,Uganda,Uganda,1,1,0
-,,,,,,,,,,United Arab Emirates,N/A,3,3,0,Ukraine,Ukraine,0,0,0
-,,,,,,,,,,United Kingdom,N/A,7,6,1,United Arab Emirates,United Arab Emirates,3,3,0
-,,,,,,,,,,Uruguay,N/A,0,0,0,United Kingdom,United Kingdom,7,6,1
-,,,,,,,,,,Uzbekistan,N/A,0,0,0,Uruguay,Uruguay,0,0,0
-,,,,,,,,,,Vanuatu,N/A,0,0,0,Uzbekistan,Uzbekistan,0,0,0
-,,,,,,,,,,Vatican City,N/A,0,0,0,Vanuatu,Vanuatu,0,0,0
-,,,,,,,,,,Venezuela,N/A,0,0,0,Vatican City,Vatican City,0,0,0
-,,,,,,,,,,Vietnam,N/A,0,0,0,Venezuela,Venezuela,0,0,0
-,,,,,,,,,,Wallis and Futuna,N/A,0,0,0,Vietnam,Vietnam,0,0,0
-,,,,,,,,,,Palestinian Authority,N/A,0,0,0,Wallis and Futuna,Wallis and Futuna,0,0,0
-,,,,,,,,,,Western Sahara,N/A,0,0,0,West Bank and Gaza,West Bank and Gaza,0,0,0
-,,,,,,,,,,Yemen,N/A,0,0,0,Western Sahara,Western Sahara,0,0,0
-,,,,,,,,,,Zambia,N/A,0,0,0,Yemen,Yemen,0,0,0
-,,,,,,,,,,Zimbabwe,N/A,0,0,0,Zambia,Zambia,0,0,0
-,,,,,,,,,,,,,,,Zimbabwe,Zimbabwe,0,0,0
+Primary Affiliation,Affliiation from IAM,Trip Start Date,Trip End Date,Itinerary Country,Trip Status,Trip Deletion/Cancelation Motive,Employee,Professional,Student,TD Name #1,TD Name #2,Destination,Common Name,Total Travelers,Total Faculty/Staff,Total Students
+Graduate Student,STUDENT,8/5/2024,12/21/2024,Netherlands,Approved,,FALSE,FALSE,TRUE,Afghanistan,N/A,Afghanistan,Afghanistan,0,0,0
+Faculty,FACULTY,7/4/2024,12/30/2024,Austria,Approved,,TRUE,FALSE,FALSE,Albania,N/A,Albania,Albania,0,0,0
+Faculty,FACULTY,9/1/2024,12/31/2024,"United Kingdom, Germany",Approved,,TRUE,FALSE,FALSE,Algeria,N/A,Algeria,Algeria,0,0,0
+Faculty,FACULTY,8/15/2024,7/15/2025,Netherlands,Approved,,TRUE,FALSE,FALSE,Andorra,N/A,Andorra,Andorra,0,0,0
+Faculty,FACULTY,12/14/2024,1/9/2025,China,Approved,,TRUE,FALSE,FALSE,Angola,N/A,Angola,Angola,0,0,0
+Graduate Student,STUDENT,8/18/2024,1/15/2025,"Germany, Switzerland, Canada, Switzerland",Approved,,FALSE,FALSE,TRUE,Anguilla,N/A,Anguilla,Anguilla,0,0,0
+Faculty,FACULTY,12/14/2024,1/28/2025,"Taiwan, Taiwan",Approved,,TRUE,FALSE,FALSE,Antarctica,N/A,Antarctica,Antarctica,1,1,0
+Faculty,FACULTY,12/4/2024,1/9/2025,"India, India, Nepal",Approved,,TRUE,FALSE,FALSE,Antigua and Barbuda,N/A,Antigua and Barbuda,Antigua and Barbuda,0,0,0
+Faculty,FACULTY,11/26/2024,1/3/2025,Germany,Approved,,TRUE,FALSE,FALSE,Argentina,N/A,Argentina,Argentina,0,0,0
+Faculty,FACULTY,12/14/2024,12/23/2024,Guatemala,Approved,,TRUE,FALSE,FALSE,Armenia,N/A,Armenia,Armenia,0,0,0
+Faculty,FACULTY,12/14/2024,12/19/2024,China,Approved,,TRUE,FALSE,FALSE,Aruba,N/A,Aruba,Aruba,0,0,0
+Faculty,FACULTY,12/12/2024,12/21/2024,Norway,Approved,,TRUE,FALSE,FALSE,Australia,N/A,Australia,Australia,0,0,0
+Faculty,FACULTY,12/12/2024,1/11/2025,"United Kingdom, Switzerland, United Kingdom",Approved,,TRUE,FALSE,FALSE,Austria,N/A,Austria,Austria,2,2,0
+Faculty,FACULTY,12/13/2024,12/22/2024,Netherlands,Awaiting Approval,,TRUE,FALSE,FALSE,Azerbaijan,N/A,Azerbaijan,Azerbaijan,0,0,0
+Graduate Student,STUDENT,12/12/2024,1/13/2025,"Canada, China",Approved,,FALSE,FALSE,TRUE,Bahamas,N/A,The Bahamas,The Bahamas,0,0,0
+Graduate Student,STUDENT,12/13/2024,12/19/2024,India,Approved,,FALSE,FALSE,TRUE,Bahrain,N/A,Bahrain,Bahrain,0,0,0
+Staff,FACULTY,12/17/2024,12/20/2024,Canada,Approval Needed,,TRUE,FALSE,FALSE,Bangladesh,N/A,Bangladesh,Bangladesh,0,0,0
+Faculty,FACULTY,12/13/2024,1/12/2025,"Japan, Japan, Japan",Approved,,TRUE,FALSE,FALSE,Barbados,N/A,Barbados,Barbados,0,0,0
+Graduate Student,STUDENT,8/14/2024,1/25/2025,China,Approved,,FALSE,FALSE,TRUE,Belarus,N/A,Belarus,Belarus,0,0,0
+Undergraduate Student,STUDENT,6/4/2024,12/19/2024,Mexico,Approval Needed,,FALSE,FALSE,TRUE,Belgium,N/A,Belgium,Belgium,2,1,1
+Law Student,STUDENT,8/8/2024,1/13/2025,Netherlands,Approved,,FALSE,TRUE,FALSE,Belize,N/A,Belize,Belize,0,0,0
+Faculty,FACULTY,6/23/2024,3/31/2025,"Colombia, Peru, Colombia",Approved,,TRUE,FALSE,FALSE,Benin,N/A,Benin,Benin,0,0,0
+Faculty,FACULTY,8/10/2024,6/30/2025,Colombia,Awaiting Approval,,TRUE,FALSE,FALSE,Bermuda,N/A,Bermuda,Bermuda,0,0,0
+Faculty,FACULTY,9/14/2024,6/14/2025,"Turkey, Turkey",Approved,,TRUE,FALSE,FALSE,Bhutan,N/A,Bhutan,Bhutan,0,0,0
+Faculty,FACULTY,12/15/2024,1/12/2025,United Arab Emirates,Approved,,TRUE,FALSE,FALSE,Bolivia,N/A,Bolivia,Bolivia,0,0,0
+Faculty,FACULTY,12/7/2024,12/20/2024,"Germany, Germany",Approved,,TRUE,FALSE,FALSE,Caribbean Netherlands,N/A,"Bonaire, Saba, and Sint Eustatius","Bonaire, Saba, and Sint Eustatius",0,0,0
+Faculty,FACULTY,11/23/2024,1/15/2025,Taiwan,Approved,,TRUE,FALSE,FALSE,Bosnia and Herzegovina,N/A,Bosnia and Herzegovina,Bosnia and Herzegovina,0,0,0
+Faculty,FACULTY,11/29/2024,12/23/2024,Mexico,Approved,,TRUE,FALSE,FALSE,Botswana,N/A,Botswana,Botswana,0,0,0
+Staff,STAFF,11/23/2024,1/4/2025,Italy,Approved,,TRUE,FALSE,FALSE,Brazil,N/A,Brazil,Brazil,0,0,0
+Faculty,FACULTY,11/30/2024,12/23/2024,"United Kingdom, United Kingdom, Germany, Germany, Germany",Approved,,TRUE,FALSE,FALSE,British Indian Ocean Territory,N/A,British Indian Ocean Territory,British Indian Ocean Territory,0,0,0
+Graduate Student,STUDENT,10/29/2024,1/31/2025,Indonesia,Approved,,FALSE,FALSE,TRUE,British Virgin Islands,N/A,British Virgin Islands,British Virgin Islands,0,0,0
+Graduate Student,FACULTY,8/15/2024,6/30/2025,Netherlands,Approved,,FALSE,FALSE,TRUE,Brunei Darussalam,N/A,Brunei,Brunei,0,0,0
+Faculty,FACULTY,12/16/2024,12/21/2024,France,Approved,,TRUE,FALSE,FALSE,Bulgaria,N/A,Bulgaria,Bulgaria,0,0,0
+Faculty,FACULTY,12/9/2024,1/2/2025,"Italy, United Arab Emirates, Italy",Approved,,TRUE,FALSE,FALSE,Burkina Faso,N/A,Burkina Faso,Burkina Faso,0,0,0
+Faculty,FACULTY,12/1/2024,12/19/2024,"India, India, India",Approved,,TRUE,FALSE,FALSE,Burundi,N/A,Burundi,Burundi,0,0,0
+Graduate Student,STUDENT,10/28/2024,2/28/2025,Colombia,Approval Needed,,FALSE,FALSE,TRUE,Cape Verde,N/A,Cape Verde,Cabo Verde (Cape Verde),0,0,0
+Graduate Student,STUDENT,12/7/2024,1/17/2025,"China, China",Approved,,FALSE,FALSE,TRUE,Cambodia,N/A,Cambodia,Cambodia,0,0,0
+Graduate Student,STUDENT,11/25/2024,1/14/2025,"India, China, India",Approved,,FALSE,FALSE,TRUE,Cameroon,N/A,Cameroon,Cameroon,0,0,0
+Faculty,FACULTY,12/11/2024,12/28/2024,India,Approved,,TRUE,FALSE,FALSE,Canada,N/A,Canada,Canada,5,2,3
+Graduate Student,STUDENT,12/16/2024,12/31/2024,"Mexico, Mexico",Approved,,FALSE,FALSE,TRUE,Cayman Islands,N/A,Cayman Islands,Cayman Islands,0,0,0
+Graduate Student,STUDENT,12/12/2024,1/16/2025,"Rwanda, Nigeria, Nigeria",Awaiting Approval,,FALSE,FALSE,TRUE,Central African Republic,N/A,Central African Republic,Central African Republic,0,0,0
+Graduate Student,STUDENT,12/11/2024,12/28/2024,"Germany, United Kingdom, Germany",Approved,,FALSE,FALSE,TRUE,Chad,N/A,Chad,Chad,0,0,0
+Faculty,FACULTY,8/24/2024,2/2/2025,"France, Germany, France, Germany, Israel, France, Greece, France, South Africa, France, United Kingdom, France, France, France, France, United Kingdom, France",Approved,,TRUE,FALSE,FALSE,Chile,N/A,Chile,Chile,0,0,0
+Faculty,FACULTY,12/17/2024,1/9/2025,Spain,Approved,,TRUE,FALSE,FALSE,China,N/A,China,China,10,5,5
+Graduate Student,STUDENT,8/6/2024,7/1/2025,France,Approved,,FALSE,FALSE,TRUE,Colombia,N/A,Colombia,Colombia,4,2,2
+Faculty,FACULTY,7/25/2024,6/30/2025,South Africa,Approved,,TRUE,FALSE,FALSE,Comoros,N/A,Comoros,Comoros,0,0,0
+Faculty,FACULTY,12/5/2024,12/27/2024,"Netherlands, France",Approved,,TRUE,FALSE,FALSE,Cook Islands,N/A,Cook Islands,Cook Islands,0,0,0
+Graduate Student,,12/15/2024,2/6/2025,Peru,Approval Needed,,FALSE,FALSE,TRUE,Costa Rica,N/A,Costa Rica,Costa Rica,0,0,0
+Faculty,FACULTY,12/19/2024,2/28/2025,Italy,Approved,,TRUE,FALSE,FALSE,Cote D'ivoire,N/A,Côte d'Ivoire,Côte d'Ivoire,0,0,0
+Faculty,FACULTY,12/3/2024,1/10/2025,Uganda,Approved,,TRUE,FALSE,FALSE,Croatia,N/A,Croatia,Croatia,0,0,0
+Faculty,FACULTY,12/18/2024,2/8/2025,"India, India, India, India, India, India",Approved,,TRUE,FALSE,FALSE,Cuba,N/A,Cuba,Cuba,0,0,0
+Graduate Student,STUDENT,12/3/2024,12/19/2024,"Colombia, Colombia, Colombia",Approved,,FALSE,FALSE,TRUE,Curacao,CuraÃ§ao,Curaçao,Curaçao,0,0,0
+Post-Doctoral Scholar,FACULTY,12/12/2024,1/9/2025,Mexico,Approved,,TRUE,FALSE,FALSE,Cyprus,N/A,Cyprus,Cyprus,0,0,0
+Faculty,FACULTY,11/12/2024,12/27/2024,"Italy, Italy",Approved,,TRUE,FALSE,FALSE,Czech Republic,Czechia,Czechia,Czech Republic,0,0,0
+Faculty,FACULTY,12/11/2024,2/20/2025,"China, Taiwan, China, China, Taiwan, China",Approved,,TRUE,FALSE,FALSE,Democratic Republic of the Congo,N/A,Democratic Republic of Congo,Democratic Republic of the Congo,0,0,0
+Post-Doctoral Scholar,FACULTY,12/18/2024,1/2/2025,Ecuador,Approved,,TRUE,FALSE,FALSE,Denmark,N/A,Denmark,Denmark,0,0,0
+Faculty,FACULTY,12/2/2024,12/23/2024,Germany,Approved,,TRUE,FALSE,FALSE,Djibouti,N/A,Djibouti,Djibouti,0,0,0
+Graduate Student,STUDENT,9/7/2024,1/8/2025,"Thailand, Thailand, Thailand, Thailand, Thailand, United States, United States",Approved,,FALSE,FALSE,TRUE,Dominica,N/A,Dominica,Dominica,0,0,0
+Faculty,FACULTY,12/7/2024,12/24/2024,South Korea,Approved,,TRUE,FALSE,FALSE,Dominican Republic,N/A,Dominican Republic,Dominican Republic,0,0,0
+Graduate Student,STUDENT,12/14/2024,12/22/2024,Rwanda,Awaiting Approval,,FALSE,FALSE,TRUE,Ecuador,N/A,Ecuador,Ecuador,1,1,0
+Faculty,FACULTY,12/17/2024,1/7/2025,"Japan, Japan, Japan, Japan",Approved,,TRUE,FALSE,FALSE,Egypt,N/A,Egypt,Egypt,0,0,0
+Post-Doctoral Scholar,FACULTY,12/16/2024,1/18/2025,India,Approval Needed,,TRUE,FALSE,FALSE,El Salvador,N/A,El Salvador,El Salvador,0,0,0
+Faculty,FACULTY,7/1/2024,8/11/2025,Italy,Approved,,TRUE,FALSE,FALSE,Equatorial Guinea,N/A,Equatorial Guinea,Equatorial Guinea,0,0,0
+Physician Assistant (PA),STUDENT,12/14/2024,2/6/2025,Peru,Awaiting Approval,,FALSE,FALSE,FALSE,Eritrea,N/A,Eritrea,Eritrea,0,0,0
+Faculty,FACULTY,10/27/2024,1/9/2025,"France, Switzerland, Germany, Austria, Turkey",Approved,,TRUE,FALSE,FALSE,Estonia,N/A,Estonia,Estonia,0,0,0
+Faculty,FACULTY,10/28/2024,12/27/2024,India,Approved,,TRUE,FALSE,FALSE,Swaziland,Eswatini,Eswatini,Eswatini (Swaziland),0,0,0
+Faculty,FACULTY,12/14/2024,12/27/2024,"France, France",Approved,,TRUE,FALSE,FALSE,Ethiopia,N/A,Ethiopia,Ethiopia,1,1,0
+Faculty,FACULTY,9/1/2024,1/1/2025,Turkey,Approved,,TRUE,FALSE,FALSE,Falkland Islands,N/A,Falkland Islands,Falkland Islands,0,0,0
+Faculty,FACULTY,12/7/2024,12/21/2024,India,Approved,,TRUE,FALSE,FALSE,Fiji,N/A,Fiji,Fiji,0,0,0
+Faculty,FACULTY,12/10/2024,12/24/2024,Japan,Approved,,TRUE,FALSE,FALSE,Finland,N/A,Finland,Finland,1,1,0
+Faculty,FACULTY,12/14/2024,1/7/2025,"Portugal, Italy, Portugal",Approved,,TRUE,FALSE,FALSE,France,N/A,France,France,8,7,1
+Post-Doctoral Scholar,FACULTY,12/4/2024,1/17/2025,"Ethiopia, Ethiopia, Ethiopia, Ethiopia",Approval Needed,,TRUE,FALSE,FALSE,French Guiana,N/A,French Guiana,French Guiana,0,0,0
+Faculty,FACULTY,12/12/2024,12/21/2024,Rwanda,Approved,,TRUE,FALSE,FALSE,French Polynesia,N/A,French Polynesia,French Polynesia,0,0,0
+Post-Doctoral Scholar,FACULTY,12/17/2024,1/20/2025,"United Kingdom, Spain, United Kingdom",Approved,,TRUE,FALSE,FALSE,French Southern and Antarctic Lands,N/A,French Southern and Antarctic Lands,French Southern and Antarctic Lands,0,0,0
+Staff,STAFF,12/17/2024,12/19/2024,Canada,Approval Needed,,TRUE,FALSE,FALSE,Gabon,N/A,Gabon,Gabon,0,0,0
+Post-Doctoral Scholar,FACULTY,12/16/2024,1/18/2025,India,Approval Needed,,TRUE,FALSE,FALSE,Gambia,N/A,The Gambia,The Gambia,0,0,0
+Faculty,FACULTY,12/17/2024,12/20/2024,France,Approved,,TRUE,FALSE,FALSE,Georgia,N/A,Georgia,Georgia,0,0,0
+Faculty,FACULTY,12/16/2024,12/29/2024,"Japan, Thailand",Approval Needed,,TRUE,FALSE,FALSE,Germany,N/A,Germany,Germany,10,7,3
+Graduate Student,STUDENT,6/29/2024,1/31/2025,"Belgium, Belgium, Belgium",Approved,,FALSE,FALSE,TRUE,Ghana,N/A,Ghana,Ghana,0,0,0
+Faculty,FACULTY,9/4/2024,12/25/2024,Italy,Approval Needed,,TRUE,FALSE,FALSE,Gibraltar,N/A,Gibraltar,Gibraltar,0,0,0
+Faculty,FACULTY,8/28/2024,1/5/2025,"Switzerland, Taiwan",Approved,,TRUE,FALSE,FALSE,Greece,N/A,Greece,Greece,2,1,1
+Faculty,FACULTY,6/8/2024,12/28/2024,India,Approved,,TRUE,FALSE,FALSE,Greenland,N/A,GREENLAND (DEN.),Greenland,0,0,0
+Graduate Student,STUDENT,9/25/2024,7/30/2025,Germany,Approved,,FALSE,FALSE,TRUE,Grenada,N/A,Grenada,Grenada,0,0,0
+Faculty,FACULTY,12/16/2024,12/19/2024,Rwanda,Approved,,TRUE,FALSE,FALSE,Guadeloupe,N/A,Guadeloupe,Guadeloupe,0,0,0
+Graduate Student,STUDENT,8/26/2024,6/2/2025,Jordan,Approved,,FALSE,FALSE,TRUE,Guatemala,N/A,Guatemala,Guatemala,1,1,0
+Graduate Student,STUDENT,10/31/2024,1/10/2025,India,Approved,,FALSE,FALSE,TRUE,Guinea,N/A,Guinea,Guinea,0,0,0
+Faculty,FACULTY,12/10/2024,12/31/2024,China,Approved,,TRUE,FALSE,FALSE,Guinea-bissau,N/A,Guinea-Bissau,Guinea-Bissau,0,0,0
+Graduate Student,STUDENT,4/29/2024,12/30/2024,India,Awaiting Approval,,FALSE,FALSE,TRUE,Guyana,N/A,Guyana,Guyana,0,0,0
+Faculty,FACULTY,12/17/2024,12/25/2024,Turkey,Approved,,TRUE,FALSE,FALSE,Haiti,N/A,Haiti,Haiti,0,0,0
+Graduate Student,STUDENT,7/24/2023,12/31/2024,"India, India, India, India",Approved,,FALSE,FALSE,TRUE,Honduras,N/A,Honduras,Honduras,0,0,0
+Faculty,FACULTY,12/11/2024,7/17/2025,France,Approved,,TRUE,FALSE,FALSE,Hungary,N/A,Hungary,Hungary,0,0,0
+Faculty,FACULTY,12/17/2024,12/20/2024,United Arab Emirates,Approved,,TRUE,FALSE,FALSE,Iceland,N/A,Iceland,Iceland,0,0,0
+Post-Doctoral Scholar,FACULTY,12/7/2024,1/31/2025,"New Zealand, Antarctica, New Zealand",Approved,,TRUE,FALSE,FALSE,India,N/A,India,India,14,9,5
+Graduate Student,STUDENT,9/1/2024,3/31/2025,"Canada, United States, Canada",Awaiting Approval,,FALSE,FALSE,TRUE,Indonesia,N/A,Indonesia,Indonesia,1,0,1
+Faculty,FACULTY,12/15/2024,12/19/2024,Belgium,Approved,,TRUE,FALSE,FALSE,Iran,N/A,Iran,Iran,0,0,0
+Undergraduate Student,STUDENT,12/14/2024,12/22/2024,Greece,Approved,,FALSE,FALSE,TRUE,Iraq,N/A,Iraq,Iraq,0,0,0
+Graduate Student,STUDENT,12/12/2024,1/30/2025,"Rwanda, Tanzania, South Korea",Approved,,FALSE,FALSE,TRUE,Ireland,N/A,Ireland,Ireland,0,0,0
+Faculty,FACULTY,12/16/2024,12/20/2024,Finland,Approved,,TRUE,FALSE,FALSE,Israel,N/A,Israel,Israel,1,1,0
+Faculty,FACULTY,12/18/2024,1/11/2025,"China, China",Approved,,TRUE,FALSE,FALSE,Italy,N/A,Italy,Italy,9,9,0
+Faculty,FACULTY,12/10/2024,12/20/2024,Italy,Approved,,TRUE,FALSE,FALSE,Jamaica,N/A,Jamaica,Jamaica,0,0,0
+Faculty,FACULTY,12/7/2024,12/27/2024,Kuwait,Approved,,TRUE,FALSE,FALSE,Japan,N/A,Japan,Japan,4,4,0
+Graduate Student,STUDENT,12/7/2024,12/26/2024,"China, China, China",Approved,,FALSE,FALSE,TRUE,Jordan,N/A,Jordan,Jordan,1,0,1
+Faculty,FACULTY,12/14/2024,12/20/2024,Rwanda,Awaiting Approval,,TRUE,FALSE,FALSE,Kazakhstan,N/A,Kazakhstan,Kazakhstan,0,0,0
+Faculty,FACULTY,12/14/2024,12/20/2024,Italy,Approved,,TRUE,FALSE,FALSE,Kenya,N/A,Kenya,Kenya,0,0,0
+Faculty,FACULTY,12/14/2024,12/29/2024,United Kingdom,Approved,,TRUE,FALSE,FALSE,Kiribati,N/A,Kiribati,Kiribati,0,0,0
+,,,,,,,,,,Kosovo,N/A,Kosovo,Kosovo,0,0,0
+,,,,,,,,,,Kuwait,N/A,Kuwait,Kuwait,1,1,0
+,,,,,,,,,,Kyrgyzstan,N/A,Kyrgyzstan,Kyrgyzstan,0,0,0
+,,,,,,,,,,Laos,N/A,Laos,Laos,0,0,0
+,,,,,,,,,,Latvia,N/A,Latvia,Latvia,0,0,0
+,,,,,,,,,,Lebanon,N/A,Lebanon,Lebanon,0,0,0
+,,,,,,,,,,Lesotho,N/A,Lesotho,Lesotho,0,0,0
+,,,,,,,,,,Liberia,N/A,Liberia,Liberia,0,0,0
+,,,,,,,,,,Libya,N/A,Libya,Libya,0,0,0
+,,,,,,,,,,Liechtenstein,N/A,Liechtenstein,Liechtenstein,0,0,0
+,,,,,,,,,,Lithuania,N/A,Lithuania,Lithuania,0,0,0
+,,,,,,,,,,Luxembourg,N/A,Luxembourg,Luxembourg,0,0,0
+,,,,,,,,,,Madagascar,N/A,Madagascar,Madagascar,0,0,0
+,,,,,,,,,,Malawi,N/A,Malawi,Malawi,0,0,0
+,,,,,,,,,,Malaysia,N/A,Malaysia,Malaysia,0,0,0
+,,,,,,,,,,Maldives,N/A,Maldives,Maldives,0,0,0
+,,,,,,,,,,Mali,N/A,Mali,Mali,0,0,0
+,,,,,,,,,,Malta,N/A,Malta,Malta,0,0,0
+,,,,,,,,,,Marshall Islands,N/A,Marshall Islands,Marshall Islands,0,0,0
+,,,,,,,,,,Martinique,N/A,Martinique,Martinique,0,0,0
+,,,,,,,,,,Mauritania,N/A,Mauritania,Mauritania,0,0,0
+,,,,,,,,,,Mauritius,N/A,Mauritius,Mauritius,0,0,0
+,,,,,,,,,,Mayotte,N/A,Mayotte,Mayotte,0,0,0
+,,,,,,,,,,Mexico,N/A,Mexico,Mexico,4,2,2
+,,,,,,,,,,Federated States of Micronesia,N/A,Micronesia,Micronesia,0,0,0
+,,,,,,,,,,Moldova,N/A,Moldova,Moldova,0,0,0
+,,,,,,,,,,Monaco,N/A,Monaco,Monaco,0,0,0
+,,,,,,,,,,Mongolia,N/A,Mongolia,Mongolia,0,0,0
+,,,,,,,,,,Montenegro,N/A,Montenegro,Montenegro,0,0,0
+,,,,,,,,,,Montserrat,N/A,Montserrat,Montserrat,0,0,0
+,,,,,,,,,,Morocco,N/A,Morocco,Morocco,0,0,0
+,,,,,,,,,,Mozambique,N/A,Mozambique,Mozambique,0,0,0
+,,,,,,,,,,Myanmar,N/A,Myanmar,Myanmar,0,0,0
+,,,,,,,,,,Namibia,N/A,Namibia,Namibia,0,0,0
+,,,,,,,,,,Nauru,N/A,Nauru,Nauru,0,0,0
+,,,,,,,,,,Nepal,N/A,Nepal,Nepal,1,1,0
+,,,,,,,,,,Netherlands,N/A,Netherlands,Netherlands,6,3,3
+,,,,,,,,,,New Caledonia,N/A,New Caledonia,New Caledonia,0,0,0
+,,,,,,,,,,New Zealand,N/A,New Zealand,New Zealand,1,1,0
+,,,,,,,,,,Nicaragua,N/A,Nicaragua,Nicaragua,0,0,0
+,,,,,,,,,,Niger,N/A,Niger,Niger,0,0,1
+,,,,,,,,,,Nigeria,N/A,Nigeria,Nigeria,1,0,1
+,,,,,,,,,,Niue,N/A,Niue,Niue,0,0,0
+,,,,,,,,,,North Korea,N/A,North Korea,North Korea,0,0,0
+,,,,,,,,,,Macedonia,N/A,North Macedonia,North Macedonia,0,0,0
+,,,,,,,,,,Norway,N/A,Norway,Norway,1,1,0
+,,,,,,,,,,Oman,N/A,Oman,Oman,0,0,0
+,,,,,,,,,,Pakistan,N/A,Pakistan,Pakistan,0,0,0
+,,,,,,,,,,Palau,N/A,Palau,Palau,0,0,0
+,,,,,,,,,,Panama,N/A,Panama,Panama,0,0,0
+,,,,,,,,,,Papua New Guinea,N/A,Papua New Guinea,Papua New Guinea,0,0,0
+,,,,,,,,,,Paraguay,N/A,Paraguay,Paraguay,0,0,0
+,,,,,,,,,,Peru,N/A,Peru,Peru,3,1,1
+,,,,,,,,,,Philippines,N/A,Philippines,Philippines,0,0,0
+,,,,,,,,,,Pitcairn Islands,N/A,Pitcairn Islands,Pitcairn Islands,0,0,0
+,,,,,,,,,,Poland,N/A,Poland,Poland,0,0,0
+,,,,,,,,,,Portugal,N/A,Portugal,Portugal,1,1,0
+,,,,,,,,,,Qatar,N/A,Qatar,Qatar,0,0,0
+,,,,,,,,,,Congo,N/A,Congo,Republic of the Congo,0,0,0
+,,,,,,,,,,Reunion,N/A,Réunion,Réunion,0,0,0
+,,,,,,,,,,Romania,N/A,Romania,Romania,0,0,0
+,,,,,,,,,,Russia,N/A,Russia,Russia,0,0,0
+,,,,,,,,,,Rwanda,N/A,Rwanda,Rwanda,6,3,3
+,,,,,,,,,,Saint Barthelemy,N/A,Saint Barthélemy,Saint Barthélemy,0,0,0
+,,,,,,,,,,St. Helena,N/A,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",0,0,0
+,,,,,,,,,,Saint Kitts and Nevis,N/A,Saint Kitts and Nevis,Saint Kitts and Nevis,0,0,0
+,,,,,,,,,,Saint Lucia,N/A,Saint Lucia,Saint Lucia,0,0,0
+,,,,,,,,,,Saint Martin,N/A,Saint Martin,Saint Martin,0,0,0
+,,,,,,,,,,Saint Pierre and Miquelon,N/A,Saint Pierre and Miquelon,Saint Pierre and Miquelon,0,0,0
+,,,,,,,,,,Saint Vincent and the Grenadines,N/A,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,0,0,0
+,,,,,,,,,,Samoa,N/A,Samoa,Samoa,0,0,0
+,,,,,,,,,,San Marino,N/A,San Marino,San Marino,0,0,0
+,,,,,,,,,,Sao Tome and Principe,N/A,São Tomé and Príncipe,São Tomé and Príncipe,0,0,0
+,,,,,,,,,,Saudi Arabia,N/A,Saudi Arabia,Saudi Arabia,0,0,0
+,,,,,,,,,,Senegal,N/A,Senegal,Senegal,0,0,0
+,,,,,,,,,,Serbia,N/A,Serbia,Serbia,0,0,0
+,,,,,,,,,,Seychelles,N/A,Seychelles,Seychelles,0,0,0
+,,,,,,,,,,Sierra Leone,N/A,Sierra Leone,Sierra Leone,0,0,0
+,,,,,,,,,,Singapore,N/A,Singapore,Singapore,0,0,0
+,,,,,,,,,,Sint Maarten,N/A,Sint Maarten,Sint Maarten,0,0,0
+,,,,,,,,,,Slovakia,N/A,Slovakia,Slovakia,0,0,0
+,,,,,,,,,,Slovenia,N/A,Slovenia,Slovenia,0,0,0
+,,,,,,,,,,Solomon Islands,N/A,Solomon Islands,Solomon Islands,0,0,0
+,,,,,,,,,,Somalia,N/A,Somalia,Somalia,0,0,0
+,,,,,,,,,,South Africa,N/A,South Africa,South Africa,2,2,0
+,,,,,,,,,,South Georgia and South Sandwich Islands,N/A,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,0,0,0
+,,,,,,,,,,South Korea,N/A,South Korea,South Korea,2,1,1
+,,,,,,,,,,South Sudan,N/A,South Sudan,South Sudan,0,0,0
+,,,,,,,,,,Spain,N/A,Spain,Spain,2,2,0
+,,,,,,,,,,Sri Lanka,N/A,Sri Lanka,Sri Lanka,0,0,0
+,,,,,,,,,,Sudan,N/A,Sudan,Sudan,0,0,0
+,,,,,,,,,,Suriname,N/A,Suriname,Suriname,0,0,0
+,,,,,,,,,,Svalbard and Jan Mayen,N/A,Svalbard and Jan Mayen,Svalbard and Jan Mayen,0,0,0
+,,,,,,,,,,Sweden,N/A,Sweden,Sweden,0,0,0
+,,,,,,,,,,Switzerland,N/A,Switzerland,Switzerland,4,3,1
+,,,,,,,,,,Syria,N/A,Syria,Syria,0,0,0
+,,,,,,,,,,Taiwan,N/A,Taiwan,Taiwan (China),4,4,0
+,,,,,,,,,,Tajikistan,N/A,Tajikistan,Tajikistan,0,0,0
+,,,,,,,,,,Tanzania,N/A,Tanzania,Tanzania,1,0,1
+,,,,,,,,,,Thailand,N/A,Thailand,Thailand,2,1,1
+,,,,,,,,,,Timor-leste (East Timor),N/A,Timor-Leste,Timor-Leste (East Timor),0,0,0
+,,,,,,,,,,Togo,N/A,Togo,Togo,0,0,0
+,,,,,,,,,,Tokelau,N/A,Tokelau,Tokelau,0,0,0
+,,,,,,,,,,Tonga,N/A,Tonga,Tonga,0,0,0
+,,,,,,,,,,Trinidad and Tobago,N/A,Trinidad and Tobago,Trinidad and Tobago,0,0,0
+,,,,,,,,,,Tunisia,N/A,Tunisia,Tunisia,0,0,0
+,,,,,,,,,,Turkey,N/A,Turkey,Turkey,4,4,0
+,,,,,,,,,,Turkmenistan,N/A,Turkmenistan,Turkmenistan,0,0,0
+,,,,,,,,,,Turks and Caicos Islands,N/A,Turks and Caicos Islands,Turks and Caicos Islands,0,0,0
+,,,,,,,,,,Tuvalu,N/A,Tuvalu,Tuvalu,0,0,0
+,,,,,,,,,,Uganda,N/A,Uganda,Uganda,1,1,0
+,,,,,,,,,,Ukraine,N/A,Ukraine,Ukraine,0,0,0
+,,,,,,,,,,United Arab Emirates,N/A,United Arab Emirates,United Arab Emirates,3,3,0
+,,,,,,,,,,United Kingdom,N/A,United Kingdom,United Kingdom,7,6,1
+,,,,,,,,,,Uruguay,N/A,Uruguay,Uruguay,0,0,0
+,,,,,,,,,,Uzbekistan,N/A,Uzbekistan,Uzbekistan,0,0,0
+,,,,,,,,,,Vanuatu,N/A,Vanuatu,Vanuatu,0,0,0
+,,,,,,,,,,Vatican City,N/A,Vatican City,Vatican City,0,0,0
+,,,,,,,,,,Venezuela,N/A,Venezuela,Venezuela,0,0,0
+,,,,,,,,,,Vietnam,N/A,Vietnam,Vietnam,0,0,0
+,,,,,,,,,,Wallis and Futuna,N/A,Wallis and Futuna,Wallis and Futuna,0,0,0
+,,,,,,,,,,Palestinian Authority,N/A,West Bank and Gaza,West Bank and Gaza,0,0,0
+,,,,,,,,,,Western Sahara,N/A,Western Sahara,Western Sahara,0,0,0
+,,,,,,,,,,Yemen,N/A,Yemen,Yemen,0,0,0
+,,,,,,,,,,Zambia,N/A,Zambia,Zambia,0,0,0
+,,,,,,,,,,Zimbabwe,N/A,Zimbabwe,Zimbabwe,0,0,0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
